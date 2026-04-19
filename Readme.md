@@ -82,6 +82,7 @@ Some UI suggestions were too generic and needed manual refinement for Indian use
 Needed manual correction for React state mutation and stale state issues
 
 ⏱️ If I had another 4 hours, I would add:
+
 🔥 1. Smart recommendation engine upgrades
 Constraint relaxation (if no results, suggest closest alternatives)
 Weighted scoring combining mileage, safety, and price
